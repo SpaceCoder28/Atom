@@ -4,7 +4,7 @@ var orbits = [];
 var no = 5; //number of orbits to draw
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(1200, 1200);
   
   n = new Nucleus(); //creating nucleus
   for(var i=0; i < no; i++) { //creating orbits and electrons
