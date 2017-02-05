@@ -1,7 +1,7 @@
 function Nucleus() {
   this.x = width/2;
   this.y = height/2;
-  this.r = 50;
+  this.r = 75;
 
   this.show = function() {
     fill(255, 100);
